@@ -1,0 +1,18 @@
+{
+  "info":[
+    {
+      "topic": "Hvem er jeg:",
+      "content": "Jeg er Sindre, jobber som IT-konsulent og bor i Oslo."
+    },
+    {
+      "topic": "Hva slags nettide er dette:",
+      "content": "Kontaktside og sted hvor jeg legger ut lenker til hobby-prosjekter."
+    }
+  ],
+  "contactDetails":[
+    "http://www.facebook.com/erdsin",
+    "https://github.com/sindreor",
+    "https://no.linkedin.com/in/sindre-rasmussen-6a8ba4126",
+    "mailto:sindre@sindreor.no"
+  ]
+}
